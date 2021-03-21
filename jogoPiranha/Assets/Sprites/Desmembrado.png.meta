@@ -3,11 +3,26 @@ guid: 20d8270827344564e9a11c578f189533
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 293763343353787340
-    second: Desmembrado_22
+      213: -873322922576433771
+    second: Desmembrado_15
   - first:
-      213: -948526564295684971
-    second: Desmembrado_6
+      213: -2521425221452504614
+    second: Desmembrado_16
+  - first:
+      213: 3736312608600042207
+    second: Desmembrado_17
+  - first:
+      213: 2229928847901517479
+    second: Desmembrado_18
+  - first:
+      213: 4709471720876667590
+    second: Desmembrado_19
+  - first:
+      213: 7049585692093077862
+    second: Desmembrado_20
+  - first:
+      213: 1538553327417152620
+    second: Desmembrado_21
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -67,7 +82,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 512
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -79,7 +94,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 512
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -91,7 +106,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Windows Store Apps
-    maxTextureSize: 512
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -103,7 +118,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
-    maxTextureSize: 512
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -120,10 +135,10 @@ TextureImporter:
       name: Desmembrado_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1546
-        width: 317
-        height: 594
+        x: 4
+        y: 1502
+        width: 305
+        height: 633
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,10 +156,10 @@ TextureImporter:
       name: Desmembrado_1
       rect:
         serializedVersion: 2
-        x: 13
-        y: 989
+        x: 3
+        y: 980
         width: 304
-        height: 520
+        height: 505
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,10 +177,10 @@ TextureImporter:
       name: Desmembrado_2
       rect:
         serializedVersion: 2
-        x: 1643
-        y: 1537
-        width: 285
-        height: 612
+        x: 294
+        y: 260
+        width: 438
+        height: 508
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -183,10 +198,10 @@ TextureImporter:
       name: Desmembrado_3
       rect:
         serializedVersion: 2
-        x: 322
-        y: 1550
-        width: 1316
-        height: 544
+        x: 40
+        y: 26
+        width: 298
+        height: 153
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,10 +219,10 @@ TextureImporter:
       name: Desmembrado_4
       rect:
         serializedVersion: 2
-        x: 326
-        y: 980
-        width: 1298
-        height: 515
+        x: 389
+        y: 28
+        width: 78
+        height: 151
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,10 +240,10 @@ TextureImporter:
       name: Desmembrado_5
       rect:
         serializedVersion: 2
-        x: 1652
-        y: 970
-        width: 202
-        height: 553
+        x: 534
+        y: 30
+        width: 83
+        height: 152
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,13 +258,34 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+      name: Desmembrado_6
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 30
+        width: 68
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c42238d1826d2f0800000000000000
+      internalID: -948526564295684971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
       name: Desmembrado_7
       rect:
         serializedVersion: 2
-        x: 971
-        y: 174
-        width: 939
-        height: 373
+        x: 313
+        y: 984
+        width: 1331
+        height: 514
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -267,10 +303,10 @@ TextureImporter:
       name: Desmembrado_8
       rect:
         serializedVersion: 2
-        x: 966
-        y: 2183
-        width: 150
-        height: 312
+        x: 1650
+        y: 986
+        width: 168
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -288,10 +324,10 @@ TextureImporter:
       name: Desmembrado_9
       rect:
         serializedVersion: 2
-        x: 1248
-        y: 2209
-        width: 93
-        height: 197
+        x: 997
+        y: 739
+        width: 141
+        height: 107
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -309,10 +345,10 @@ TextureImporter:
       name: Desmembrado_10
       rect:
         serializedVersion: 2
-        x: 1722
-        y: 2218
-        width: 120
-        height: 183
+        x: 1155
+        y: 728
+        width: 137
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -330,10 +366,10 @@ TextureImporter:
       name: Desmembrado_11
       rect:
         serializedVersion: 2
-        x: 991
-        y: 731
-        width: 149
-        height: 117
+        x: 1303
+        y: 725
+        width: 119
+        height: 132
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -351,10 +387,10 @@ TextureImporter:
       name: Desmembrado_12
       rect:
         serializedVersion: 2
-        x: 1155
-        y: 734
-        width: 129
-        height: 122
+        x: 1433
+        y: 727
+        width: 124
+        height: 131
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -372,10 +408,10 @@ TextureImporter:
       name: Desmembrado_13
       rect:
         serializedVersion: 2
-        x: 1299
-        y: 735
-        width: 123
-        height: 125
+        x: 1572
+        y: 722
+        width: 130
+        height: 135
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -393,10 +429,10 @@ TextureImporter:
       name: Desmembrado_14
       rect:
         serializedVersion: 2
-        x: 1439
-        y: 733
-        width: 120
-        height: 134
+        x: 1707
+        y: 723
+        width: 136
+        height: 136
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -414,10 +450,10 @@ TextureImporter:
       name: Desmembrado_15
       rect:
         serializedVersion: 2
-        x: 1576
-        y: 734
-        width: 124
-        height: 132
+        x: 314
+        y: 1560
+        width: 1331
+        height: 544
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -435,10 +471,10 @@ TextureImporter:
       name: Desmembrado_16
       rect:
         serializedVersion: 2
-        x: 1712
-        y: 728
-        width: 126
-        height: 139
+        x: 1650
+        y: 1560
+        width: 280
+        height: 542
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -456,10 +492,10 @@ TextureImporter:
       name: Desmembrado_17
       rect:
         serializedVersion: 2
-        x: 752
-        y: 284
-        width: 101
-        height: 93
+        x: 1745
+        y: 2229
+        width: 76
+        height: 171
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -477,10 +513,10 @@ TextureImporter:
       name: Desmembrado_18
       rect:
         serializedVersion: 2
-        x: 30
-        y: 26
-        width: 302
-        height: 157
+        x: 1260
+        y: 2216
+        width: 64
+        height: 158
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -498,10 +534,10 @@ TextureImporter:
       name: Desmembrado_19
       rect:
         serializedVersion: 2
-        x: 392
-        y: 25
-        width: 77
-        height: 153
+        x: 1003
+        y: 2195
+        width: 124
+        height: 285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -519,10 +555,10 @@ TextureImporter:
       name: Desmembrado_20
       rect:
         serializedVersion: 2
-        x: 540
-        y: 25
-        width: 71
-        height: 156
+        x: 1040
+        y: 172
+        width: 793
+        height: 358
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -540,10 +576,10 @@ TextureImporter:
       name: Desmembrado_21
       rect:
         serializedVersion: 2
-        x: 682
-        y: 30
-        width: 68
-        height: 150
+        x: 746
+        y: 285
+        width: 98
+        height: 81
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -553,48 +589,6 @@ TextureImporter:
       bones: []
       spriteID: c64d1b4891a0a5510800000000000000
       internalID: 1538553327417152620
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Desmembrado_22
-      rect:
-        serializedVersion: 2
-        x: 822
-        y: 24
-        width: 73
-        height: 157
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cc332a05438a31400800000000000000
-      internalID: 293763343353787340
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Desmembrado_6
-      rect:
-        serializedVersion: 2
-        x: 293
-        y: 265
-        width: 419
-        height: 509
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 59c42238d1826d2f0800000000000000
-      internalID: -948526564295684971
       vertices: []
       indices: 
       edges: []
